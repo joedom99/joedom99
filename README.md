@@ -24,4 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Agentic AI with R: Building an Automated Website Auditor from Scratch](https://medium.com/@marketingdatascience/agentic-ai-with-r-building-an-automated-website-auditor-from-scratch-1a42d0bd7bae?source=rss-3e624457f65a------2)
+- [Neural Networks Explained from First Principles in R](https://medium.com/@marketingdatascience/neural-networks-explained-from-first-principles-in-r-795bc158cf37?source=rss-3e624457f65a------2)
+- [Marketing with Neural Networks: What They Are and How to Use Them](https://medium.com/@marketingdatascience/marketing-with-neural-networks-what-they-are-and-how-to-use-them-3e0114771c40?source=rss-3e624457f65a------2)
+- [UBCF vs. IBCF: Comparing Marketing Recommendation System Algorithms in R](https://medium.com/@marketingdatascience/ubcf-vs-ibcf-comparing-marketing-recommendation-system-algorithms-in-r-38ff36bf05d3?source=rss-3e624457f65a------2)
+- [We Replaced Our Marketing Team with AI: Here’s What Happened](https://medium.com/@marketingdatascience/we-replaced-our-marketing-team-with-ai-heres-what-happened-bf86f114a90b?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
