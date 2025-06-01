@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Linear Regression vs. XGBoost — Which Predicts Sales Better &lpar;Using R&rpar;?](https://medium.com/@marketingdatascience/linear-regression-vs-xgboost-which-predicts-sales-better-using-r-3bdf5aaab6bc?source=rss-3e624457f65a------2)
 - [Marketing Model Selection: There’s No Need to Throw AI at Everything](https://medium.com/@marketingdatascience/marketing-model-selection-theres-no-need-to-throw-ai-at-everything-8030ede44248?source=rss-3e624457f65a------2)
 - [Georgia Tech’s Data Analytics for Business Course: My Review of MGT 6203 &lpar;Updated for 2025&rpar;](https://medium.com/@marketingdatascience/georgia-techs-data-analytics-for-business-course-my-review-of-mgt-6203-updated-for-2025-96fb2697e54a?source=rss-3e624457f65a------2)
 - [Weighted Average Cost of Marketing &lpar;WACM&rpar;: A Risk-Adjusted Hurdle Rate for Smarter Marketing…](https://medium.com/@marketingdatascience/weighted-average-cost-of-marketing-wacm-a-risk-adjusted-hurdle-rate-for-smarter-marketing-948b05e45186?source=rss-3e624457f65a------2)
 - [What’s Your Marketing Beta? How to Measure Your Brand’s Sensitivity to the Market](https://medium.com/@marketingdatascience/whats-your-marketing-beta-how-to-measure-your-brand-s-sensitivity-to-the-market-3d90cbbdfec8?source=rss-3e624457f65a------2)
-- [Agentic AI with R: Building an Automated Website Auditor from Scratch](https://medium.com/@marketingdatascience/agentic-ai-with-r-building-an-automated-website-auditor-from-scratch-1a42d0bd7bae?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
