@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Minimally Viable Marketing: The Modern Cost of Doing Business](https://medium.com/@marketingdatascience/minimally-viable-marketing-the-modern-cost-of-doing-business-954ce7c89389?source=rss-3e624457f65a------2)
 - [Is It Worth It? How to Run a Cost-Benefit Analysis for Better Marketing Decisions](https://medium.com/@marketingdatascience/is-it-worth-it-how-to-run-a-cost-benefit-analysis-for-better-marketing-decisions-5a8dd38216e2?source=rss-3e624457f65a------2)
 - [Linear Regression vs. XGBoost — Which Predicts Sales Better &lpar;Using R&rpar;?](https://medium.com/@marketingdatascience/linear-regression-vs-xgboost-which-predicts-sales-better-using-r-3bdf5aaab6bc?source=rss-3e624457f65a------2)
 - [Marketing Model Selection: There’s No Need to Throw AI at Everything](https://medium.com/@marketingdatascience/marketing-model-selection-theres-no-need-to-throw-ai-at-everything-8030ede44248?source=rss-3e624457f65a------2)
 - [Georgia Tech’s Data Analytics for Business Course: My Review of MGT 6203 &lpar;Updated for 2025&rpar;](https://medium.com/@marketingdatascience/georgia-techs-data-analytics-for-business-course-my-review-of-mgt-6203-updated-for-2025-96fb2697e54a?source=rss-3e624457f65a------2)
-- [Weighted Average Cost of Marketing &lpar;WACM&rpar;: A Risk-Adjusted Hurdle Rate for Smarter Marketing…](https://medium.com/@marketingdatascience/weighted-average-cost-of-marketing-wacm-a-risk-adjusted-hurdle-rate-for-smarter-marketing-948b05e45186?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
