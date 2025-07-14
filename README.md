@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Confused? Don’t Worry, Your Marketing Model Is Too. Here’s How a Confusion Matrix Can Help](https://medium.com/@marketingdatascience/confused-dont-worry-your-marketing-model-is-too-here-s-how-a-confusion-matrix-can-help-63c017375de4?source=rss-3e624457f65a------2)
 - [What’s an Algorithm? The Hidden Playbooks Behind Smart Marketing](https://medium.com/@marketingdatascience/whats-an-algorithm-the-hidden-playbooks-behind-smart-marketing-b1f4bea4690f?source=rss-3e624457f65a------2)
 - [Frictionless Marketing: How to Remove the Hidden Forces Slowing You Down](https://medium.com/@marketingdatascience/frictionless-marketing-how-to-remove-the-hidden-forces-slowing-you-down-14cc437eaf97?source=rss-3e624457f65a------2)
 - [Simplicity is All You Need: The Art &lpar;and Science&rpar; of Naive Forecasting in Marketing Analytics](https://medium.com/@marketingdatascience/simplicity-is-all-you-need-the-art-and-science-of-naive-forecasting-in-marketing-analytics-9c9bba859940?source=rss-3e624457f65a------2)
 - [Minimally Viable Marketing: The Modern Cost of Doing Business](https://medium.com/@marketingdatascience/minimally-viable-marketing-the-modern-cost-of-doing-business-954ce7c89389?source=rss-3e624457f65a------2)
-- [Is It Worth It? How to Run a Cost-Benefit Analysis for Better Marketing Decisions](https://medium.com/@marketingdatascience/is-it-worth-it-how-to-run-a-cost-benefit-analysis-for-better-marketing-decisions-5a8dd38216e2?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
