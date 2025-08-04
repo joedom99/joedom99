@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Be Data-Driven in Marketing Even If Your Small Business Doesn’t Have a Lot of Data](https://medium.com/@marketingdatascience/how-to-be-data-driven-in-marketing-even-if-your-small-business-doesnt-have-a-lot-of-data-831d233d1ec6?source=rss-3e624457f65a------2)
 - [You’re Not Wrong, Just Ineffective: Why Effectiveness = Quality × Acceptance](https://medium.com/@marketingdatascience/youre-not-wrong-just-ineffective-why-effectiveness-quality-acceptance-fbfeae7e7ce4?source=rss-3e624457f65a------2)
 - [What Happens Next? Predicting Website Conversions with Logistic Regression](https://medium.com/@marketingdatascience/what-happens-next-predicting-website-conversions-with-logistic-regression-d374875764e2?source=rss-3e624457f65a------2)
 - [Confused? Don’t Worry, Your Marketing Model Is Too. Here’s How a Confusion Matrix Can Help](https://medium.com/@marketingdatascience/confused-dont-worry-your-marketing-model-is-too-here-s-how-a-confusion-matrix-can-help-63c017375de4?source=rss-3e624457f65a------2)
 - [What’s an Algorithm? The Hidden Playbooks Behind Smart Marketing](https://medium.com/@marketingdatascience/whats-an-algorithm-the-hidden-playbooks-behind-smart-marketing-b1f4bea4690f?source=rss-3e624457f65a------2)
-- [Frictionless Marketing: How to Remove the Hidden Forces Slowing You Down](https://medium.com/@marketingdatascience/frictionless-marketing-how-to-remove-the-hidden-forces-slowing-you-down-14cc437eaf97?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
