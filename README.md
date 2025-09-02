@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Math Behind the Roll: Understanding Probability Through Dungeons &amp; Dragons](https://medium.com/@marketingdatascience/the-math-behind-the-roll-understanding-probability-through-dungeons-dragons-c8de451aa1cb?source=rss-3e624457f65a------2)
 - [A Marketer’s Guide to Basic Statistics &lpar;Part 2&rpar;](https://medium.com/@marketingdatascience/a-marketers-guide-to-basic-statistics-part-2-f8014675f81c?source=rss-3e624457f65a------2)
 - [A Marketer’s Guide to Basic Statistics &lpar;Part 1&rpar;](https://medium.com/@marketingdatascience/a-marketers-guide-to-basic-statistics-part-1-87fdc59578cc?source=rss-3e624457f65a------2)
 - [A Middle-Aged Graduate Student Reflects on College in the 1980s, 1990s, and Today](https://medium.com/@marketingdatascience/a-middle-aged-graduate-student-reflects-on-college-in-the-1980s-1990s-and-today-97d19af447a0?source=rss-3e624457f65a------2)
 - [How to Be Data-Driven in Marketing Even If Your Small Business Doesn’t Have a Lot of Data](https://medium.com/@marketingdatascience/how-to-be-data-driven-in-marketing-even-if-your-small-business-doesnt-have-a-lot-of-data-831d233d1ec6?source=rss-3e624457f65a------2)
-- [You’re Not Wrong, Just Ineffective: Why Effectiveness = Quality × Acceptance](https://medium.com/@marketingdatascience/youre-not-wrong-just-ineffective-why-effectiveness-quality-acceptance-fbfeae7e7ce4?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
