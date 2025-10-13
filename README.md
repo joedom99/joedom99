@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Model Best Case, Worst Case, and Probable Case with the Triangle Distribution](https://medium.com/@marketingdatascience/how-to-model-best-case-worst-case-and-probable-case-with-the-triangle-distribution-3b62433bb880?source=rss-3e624457f65a------2)
 - [When Less Means More: The Case for Simplicity in Marketing](https://medium.com/@marketingdatascience/when-less-means-more-the-case-for-simplicity-in-marketing-fb39eafbaad1?source=rss-3e624457f65a------2)
 - [A Marketer’s Guide to Calculus](https://medium.com/@marketingdatascience/a-marketers-guide-to-calculus-9ced95758447?source=rss-3e624457f65a------2)
 - [Now Abideth Finance, Operations, and Sales-the Greatest of These Is Sales](https://medium.com/@marketingdatascience/now-abideth-finance-operations-and-sales-the-greatest-of-these-is-sales-98dbbfbee199?source=rss-3e624457f65a------2)
 - [When Data Meets the Gridiron: Understanding College Football Odds with Georgia Tech vs. Clemson](https://medium.com/@marketingdatascience/when-data-meets-the-gridiron-understanding-college-football-odds-with-georgia-tech-vs-clemson-5a78992eb616?source=rss-3e624457f65a------2)
-- [What Do You Mean by Mean? A Marketer’s Guide to Different Types of Averages](https://medium.com/@marketingdatascience/what-do-you-mean-by-mean-a-marketers-guide-to-different-types-of-averages-52cdbf860907?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
