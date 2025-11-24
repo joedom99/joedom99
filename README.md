@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Overwhelmed by Marketing? Here’s the Step-By-Step Roadmap I Give Every Client](https://medium.com/@marketingdatascience/overwhelmed-by-marketing-heres-the-step-by-step-roadmap-i-give-every-client-f334ffc16adc?source=rss-3e624457f65a------2)
 - [Return of the Oldest Hacker in the Room: My Weekend of Vibe Coding at Georgia Tech’s 2025 AI…](https://medium.com/@marketingdatascience/return-of-the-oldest-hacker-in-the-room-my-weekend-of-vibe-coding-at-georgia-techs-2025-ai-e7b7fb0d11f3?source=rss-3e624457f65a------2)
 - [Hands-On Data Science for Beginners: Using Google Colab as Your Laboratory](https://medium.com/@marketingdatascience/hands-on-data-science-for-beginners-using-google-colab-as-your-laboratory-87362d66190c?source=rss-3e624457f65a------2)
 - [Why Future Business Leaders Need to Learn Python and Data Science](https://medium.com/@marketingdatascience/why-future-business-leaders-need-to-learn-python-and-data-science-d6c480199654?source=rss-3e624457f65a------2)
 - [Your Biggest Supply Chain Threat Is a Company Using AI Better Than You](https://medium.com/@marketingdatascience/your-biggest-supply-chain-threat-is-a-company-using-ai-better-than-you-ffdad07afe42?source=rss-3e624457f65a------2)
-- [A Marketer’s Guide to NLP: How Machines Actually Process and Understand Language](https://medium.com/@marketingdatascience/a-marketers-guide-to-nlp-how-machines-actually-process-and-understand-language-3d452febb3de?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
