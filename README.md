@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Small Business Guide to Economic Forecasting and Econometrics](https://medium.com/@marketingdatascience/the-small-business-guide-to-economic-forecasting-and-econometrics-83d23dfbd20a?source=rss-3e624457f65a------2)
 - [My Top Picks of Books About AI for 2026](https://medium.com/@marketingdatascience/my-top-picks-of-books-about-ai-for-2026-97fd9a953ee6?source=rss-3e624457f65a------2)
 - [Why Many Marketing Models Fail: The Problem of Imbalanced Data](https://medium.com/@marketingdatascience/why-many-marketing-models-fail-the-problem-of-imbalanced-data-ceb8123b80b3?source=rss-3e624457f65a------2)
 - [The Death of the Phone Call: What Boomers and Gen X Get Wrong About Modern Communication](https://medium.com/@marketingdatascience/the-death-of-the-phone-call-what-boomers-and-gen-x-get-wrong-about-modern-communication-b0681184d896?source=rss-3e624457f65a------2)
 - [Day in the Life of a Local Marketing Agency Owner](https://medium.com/@marketingdatascience/day-in-the-life-of-a-local-marketing-agency-owner-d238db887f05?source=rss-3e624457f65a------2)
-- [Overwhelmed by Marketing? Here’s the Step-By-Step Roadmap I Give Every Client](https://medium.com/@marketingdatascience/overwhelmed-by-marketing-heres-the-step-by-step-roadmap-i-give-every-client-f334ffc16adc?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
