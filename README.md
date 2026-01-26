@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Measuring a K-Shaped Economy: From Averages to Distribution-Aware Indicators](https://medium.com/@marketingdatascience/measuring-a-k-shaped-economy-from-averages-to-distribution-aware-indicators-946957639c4f?source=rss-3e624457f65a------2)
 - [The Inadequacy of Averages: Exploring Divergent Experiences in the 2026 K-Shaped Economy](https://medium.com/@marketingdatascience/the-inadequacy-of-averages-exploring-divergent-experiences-in-the-2026-k-shaped-economy-f9d47c82749d?source=rss-3e624457f65a------2)
 - [How to Create a Big-Picture Economic Forecast Using Time-Series &lpar;ARIMA&rpar; Models in Python](https://medium.com/@marketingdatascience/how-to-create-a-big-picture-economic-forecast-using-time-series-arima-models-in-python-08093acfa6f1?source=rss-3e624457f65a------2)
 - [How to Create Your Own Basic Economic Forecast Using Multiple Regression in Python](https://medium.com/@marketingdatascience/how-to-create-your-own-basic-economic-forecast-using-multiple-regression-in-python-35c09bb9e6b3?source=rss-3e624457f65a------2)
 - [The Small Business Guide to Economic Forecasting and Econometrics](https://medium.com/@marketingdatascience/the-small-business-guide-to-economic-forecasting-and-econometrics-83d23dfbd20a?source=rss-3e624457f65a------2)
-- [My Top Picks of Books About AI for 2026](https://medium.com/@marketingdatascience/my-top-picks-of-books-about-ai-for-2026-97fd9a953ee6?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
