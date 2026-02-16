@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced AI for Nonprofits and Small Businesses](https://medium.com/@marketingdatascience/advanced-ai-for-nonprofits-and-small-businesses-51e2e65699a7?source=rss-3e624457f65a------2)
 - [The Science Fair for Grown-Ups: My First Academic Poster Contest at Georgia Tech](https://medium.com/@marketingdatascience/the-science-fair-for-grown-ups-my-first-academic-poster-contest-at-georgia-tech-0af237d5c3f2?source=rss-3e624457f65a------2)
 - [A Website Isn’t Enough: Get Leads With an Online Marketing Campaign](https://medium.com/@marketingdatascience/a-website-isnt-enough-get-leads-with-an-online-marketing-campaign-45bf6a0c9674?source=rss-3e624457f65a------2)
 - [Measuring a K-Shaped Economy: From Averages to Distribution-Aware Indicators](https://medium.com/@marketingdatascience/measuring-a-k-shaped-economy-from-averages-to-distribution-aware-indicators-946957639c4f?source=rss-3e624457f65a------2)
 - [The Inadequacy of Averages: Exploring Divergent Experiences in the 2026 K-Shaped Economy](https://medium.com/@marketingdatascience/the-inadequacy-of-averages-exploring-divergent-experiences-in-the-2026-k-shaped-economy-f9d47c82749d?source=rss-3e624457f65a------2)
-- [How to Create a Big-Picture Economic Forecast Using Time-Series &lpar;ARIMA&rpar; Models in Python](https://medium.com/@marketingdatascience/how-to-create-a-big-picture-economic-forecast-using-time-series-arima-models-in-python-08093acfa6f1?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
