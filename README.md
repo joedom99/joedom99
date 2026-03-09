@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to Marketing Mix Modeling &lpar;MMM&rpar;: How It Works and Why It’s Making a Comeback](https://medium.com/@marketingdatascience/an-introduction-to-marketing-mix-modeling-mmm-how-it-works-and-why-its-making-a-comeback-3791c1ccb914?source=rss-3e624457f65a------2)
 - [Getting Started with Agentic AI: Building a Virtual Assistant with Google Gemini](https://medium.com/@marketingdatascience/getting-started-with-agentic-ai-building-a-virtual-assistant-with-google-gemini-080054a10ede?source=rss-3e624457f65a------2)
 - [AI is Messy, Flawed, and Useful](https://medium.com/@marketingdatascience/ai-is-messy-flawed-and-useful-6133052d9282?source=rss-3e624457f65a------2)
 - [Advanced AI for Nonprofits and Small Businesses](https://medium.com/@marketingdatascience/advanced-ai-for-nonprofits-and-small-businesses-51e2e65699a7?source=rss-3e624457f65a------2)
 - [The Science Fair for Grown-Ups: My First Academic Poster Contest at Georgia Tech](https://medium.com/@marketingdatascience/the-science-fair-for-grown-ups-my-first-academic-poster-contest-at-georgia-tech-0af237d5c3f2?source=rss-3e624457f65a------2)
-- [A Website Isn’t Enough: Get Leads With an Online Marketing Campaign](https://medium.com/@marketingdatascience/a-website-isnt-enough-get-leads-with-an-online-marketing-campaign-45bf6a0c9674?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
