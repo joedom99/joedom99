@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Marketing Mix Modeling with Meridian: How to Build Your First Bayesian MMM Step-by-Step](https://medium.com/@marketingdatascience/marketing-mix-modeling-with-meridian-how-to-build-your-first-bayesian-mmm-step-by-step-e00d736596e7?source=rss-3e624457f65a------2)
 - [Marketing Mix Modeling with Robyn: How to Build Your First MMM Step-by-Step](https://medium.com/@marketingdatascience/marketing-mix-modeling-with-robyn-how-to-build-your-first-mmm-step-by-step-6ddf95d01094?source=rss-3e624457f65a------2)
 - [An Introduction to Marketing Mix Modeling &lpar;MMM&rpar;: How It Works and Why It’s Making a Comeback](https://medium.com/@marketingdatascience/an-introduction-to-marketing-mix-modeling-mmm-how-it-works-and-why-its-making-a-comeback-3791c1ccb914?source=rss-3e624457f65a------2)
 - [Getting Started with Agentic AI: Building a Virtual Assistant with Google Gemini](https://medium.com/@marketingdatascience/getting-started-with-agentic-ai-building-a-virtual-assistant-with-google-gemini-080054a10ede?source=rss-3e624457f65a------2)
 - [AI is Messy, Flawed, and Useful](https://medium.com/@marketingdatascience/ai-is-messy-flawed-and-useful-6133052d9282?source=rss-3e624457f65a------2)
-- [Advanced AI for Nonprofits and Small Businesses](https://medium.com/@marketingdatascience/advanced-ai-for-nonprofits-and-small-businesses-51e2e65699a7?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
