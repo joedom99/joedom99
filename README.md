@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Measuring Lift: A Marketer’s Guide to Incrementality](https://medium.com/@marketingdatascience/measuring-lift-a-marketers-guide-to-incrementality-ab4f57b21cc6?source=rss-3e624457f65a------2)
 - [The Best of Both Worlds: Combining MMM and MTA with Unified Marketing Measurement](https://medium.com/@marketingdatascience/the-best-of-both-worlds-combining-mmm-and-mta-with-unified-marketing-measurement-097e36cdae5b?source=rss-3e624457f65a------2)
 - [Marketing Mix Modeling with Meridian: How to Build Your First Bayesian MMM Step-by-Step](https://medium.com/@marketingdatascience/marketing-mix-modeling-with-meridian-how-to-build-your-first-bayesian-mmm-step-by-step-e00d736596e7?source=rss-3e624457f65a------2)
 - [Marketing Mix Modeling with Robyn: How to Build Your First MMM Step-by-Step](https://medium.com/@marketingdatascience/marketing-mix-modeling-with-robyn-how-to-build-your-first-mmm-step-by-step-6ddf95d01094?source=rss-3e624457f65a------2)
 - [An Introduction to Marketing Mix Modeling &lpar;MMM&rpar;: How It Works and Why It’s Making a Comeback](https://medium.com/@marketingdatascience/an-introduction-to-marketing-mix-modeling-mmm-how-it-works-and-why-its-making-a-comeback-3791c1ccb914?source=rss-3e624457f65a------2)
-- [Getting Started with Agentic AI: Building a Virtual Assistant with Google Gemini](https://medium.com/@marketingdatascience/getting-started-with-agentic-ai-building-a-virtual-assistant-with-google-gemini-080054a10ede?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
