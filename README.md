@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Explaining Econometrics in 3 Minutes: What I Learned from Georgia Tech’s 3MT Competition](https://medium.com/@marketingdatascience/explaining-econometrics-in-3-minutes-what-i-learned-from-georgia-techs-3mt-competition-307d05dea3f2?source=rss-3e624457f65a------2)
 - [An Introduction to Linear Algebra: The Math I Slept Through in College That Now Powers AI](https://medium.com/@marketingdatascience/an-introduction-to-linear-algebra-the-math-i-slept-through-in-college-that-now-powers-ai-c4831f688496?source=rss-3e624457f65a------2)
 - [Measuring Lift: A Marketer’s Guide to Incrementality](https://medium.com/@marketingdatascience/measuring-lift-a-marketers-guide-to-incrementality-ab4f57b21cc6?source=rss-3e624457f65a------2)
 - [The Best of Both Worlds: Combining MMM and MTA with Unified Marketing Measurement](https://medium.com/@marketingdatascience/the-best-of-both-worlds-combining-mmm-and-mta-with-unified-marketing-measurement-097e36cdae5b?source=rss-3e624457f65a------2)
 - [Marketing Mix Modeling with Meridian: How to Build Your First Bayesian MMM Step-by-Step](https://medium.com/@marketingdatascience/marketing-mix-modeling-with-meridian-how-to-build-your-first-bayesian-mmm-step-by-step-e00d736596e7?source=rss-3e624457f65a------2)
-- [Marketing Mix Modeling with Robyn: How to Build Your First MMM Step-by-Step](https://medium.com/@marketingdatascience/marketing-mix-modeling-with-robyn-how-to-build-your-first-mmm-step-by-step-6ddf95d01094?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
