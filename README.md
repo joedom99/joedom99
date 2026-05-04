@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Six Argument Tactics That Derail Real Discussions &lpar;And How to Handle Them&rpar;](https://medium.com/@marketingdatascience/six-argument-tactics-that-derail-real-discussions-and-how-to-handle-them-394dbe12d1f1?source=rss-3e624457f65a------2)
 - [Marketing Through Uncertainty: How to Adapt When the Economy Keeps Changing](https://medium.com/@marketingdatascience/marketing-through-uncertainty-how-to-adapt-when-the-economy-keeps-changing-fff860ba35c4?source=rss-3e624457f65a------2)
 - [Explaining Econometrics in 3 Minutes: What I Learned from Georgia Tech’s 3MT Competition](https://medium.com/@marketingdatascience/explaining-econometrics-in-3-minutes-what-i-learned-from-georgia-techs-3mt-competition-307d05dea3f2?source=rss-3e624457f65a------2)
 - [An Introduction to Linear Algebra: The Math I Slept Through in College That Now Powers AI](https://medium.com/@marketingdatascience/an-introduction-to-linear-algebra-the-math-i-slept-through-in-college-that-now-powers-ai-c4831f688496?source=rss-3e624457f65a------2)
 - [Measuring Lift: A Marketer’s Guide to Incrementality](https://medium.com/@marketingdatascience/measuring-lift-a-marketers-guide-to-incrementality-ab4f57b21cc6?source=rss-3e624457f65a------2)
-- [The Best of Both Worlds: Combining MMM and MTA with Unified Marketing Measurement](https://medium.com/@marketingdatascience/the-best-of-both-worlds-combining-mmm-and-mta-with-unified-marketing-measurement-097e36cdae5b?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
