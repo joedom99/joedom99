@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Neural Network from First Principles in Excel](https://medium.com/@marketingdatascience/building-a-neural-network-from-first-principles-in-excel-0562c4e542bf?source=rss-3e624457f65a------2)
 - [Logarithms in Marketing Analytics: A Practical Guide](https://medium.com/@marketingdatascience/logarithms-in-marketing-analytics-a-practical-guide-e2ad13d67db4?source=rss-3e624457f65a------2)
 - [Six Argument Tactics That Derail Real Discussions &lpar;And How to Handle Them&rpar;](https://medium.com/@marketingdatascience/six-argument-tactics-that-derail-real-discussions-and-how-to-handle-them-394dbe12d1f1?source=rss-3e624457f65a------2)
 - [Marketing Through Uncertainty: How to Adapt When the Economy Keeps Changing](https://medium.com/@marketingdatascience/marketing-through-uncertainty-how-to-adapt-when-the-economy-keeps-changing-fff860ba35c4?source=rss-3e624457f65a------2)
 - [Explaining Econometrics in 3 Minutes: What I Learned from Georgia Tech’s 3MT Competition](https://medium.com/@marketingdatascience/explaining-econometrics-in-3-minutes-what-i-learned-from-georgia-techs-3mt-competition-307d05dea3f2?source=rss-3e624457f65a------2)
-- [An Introduction to Linear Algebra: The Math I Slept Through in College That Now Powers AI](https://medium.com/@marketingdatascience/an-introduction-to-linear-algebra-the-math-i-slept-through-in-college-that-now-powers-ai-c4831f688496?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
