@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Guide to Email Deliverability](https://medium.com/@marketingdatascience/the-complete-guide-to-email-deliverability-2f55386230ea?source=rss-3e624457f65a------2)
 - [Regression to the Mean: The Statistical Force That Humbles Marketers](https://medium.com/@marketingdatascience/regression-to-the-mean-the-statistical-force-that-humbles-marketers-61382f3e1ceb?source=rss-3e624457f65a------2)
 - [When the Numbers Look Wrong: A Marketer’s Guide to Anomaly Detection](https://medium.com/@marketingdatascience/when-the-numbers-look-wrong-a-marketers-guide-to-anomaly-detection-3895e22f2fe7?source=rss-3e624457f65a------2)
 - [A Marketer’s Field Guide to Machine Learning](https://medium.com/@marketingdatascience/a-marketers-field-guide-to-machine-learning-784628348ed9?source=rss-3e624457f65a------2)
 - [What Is Marketing? It’s Not What You Think &lpar;and It’s Not Just Sales&rpar;](https://medium.com/@marketingdatascience/what-is-marketing-its-not-what-you-think-and-it-s-not-just-sales-8e371ad4fed1?source=rss-3e624457f65a------2)
-- [When Sales Go Up, How Do You Know Marketing Helped?](https://medium.com/@marketingdatascience/when-sales-go-up-how-do-you-know-marketing-helped-4c7846eb3f56?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
