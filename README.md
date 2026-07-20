@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [You Think Your Marketing Isn’t Working. How Do You Know?](https://medium.com/@marketingdatascience/you-think-your-marketing-isnt-working-how-do-you-know-0d01b3d09198?source=rss-3e624457f65a------2)
 - [Is Your Marketing Model Too Accurate?](https://medium.com/@marketingdatascience/is-your-marketing-model-too-accurate-5076f5163326?source=rss-3e624457f65a------2)
 - [Bayesian Statistics Explained for Marketers](https://medium.com/@marketingdatascience/bayesian-statistics-explained-for-marketers-be1c46ea159a?source=rss-3e624457f65a------2)
 - [The Complete Guide to Email Deliverability](https://medium.com/@marketingdatascience/the-complete-guide-to-email-deliverability-2f55386230ea?source=rss-3e624457f65a------2)
 - [Regression to the Mean: The Statistical Force That Humbles Marketers](https://medium.com/@marketingdatascience/regression-to-the-mean-the-statistical-force-that-humbles-marketers-61382f3e1ceb?source=rss-3e624457f65a------2)
-- [When the Numbers Look Wrong: A Marketer’s Guide to Anomaly Detection](https://medium.com/@marketingdatascience/when-the-numbers-look-wrong-a-marketers-guide-to-anomaly-detection-3895e22f2fe7?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
