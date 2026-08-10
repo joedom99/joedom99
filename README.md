@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to Markov Chains](https://medium.com/@marketingdatascience/an-introduction-to-markov-chains-69bb4906f416?source=rss-3e624457f65a------2)
 - [Introduction to Monte Carlo Simulation for Marketers](https://medium.com/@marketingdatascience/introduction-to-monte-carlo-simulation-for-marketers-8cb0077f1566?source=rss-3e624457f65a------2)
 - [Why a Website Works for Some Visitors, but Not Others](https://medium.com/@marketingdatascience/why-a-website-works-for-some-visitors-but-not-others-d583e0d06d7d?source=rss-3e624457f65a------2)
 - [You Think Your Marketing Isn’t Working. How Do You Know?](https://medium.com/@marketingdatascience/you-think-your-marketing-isnt-working-how-do-you-know-0d01b3d09198?source=rss-3e624457f65a------2)
 - [Is Your Marketing Model Too Accurate?](https://medium.com/@marketingdatascience/is-your-marketing-model-too-accurate-5076f5163326?source=rss-3e624457f65a------2)
-- [Bayesian Statistics Explained for Marketers](https://medium.com/@marketingdatascience/bayesian-statistics-explained-for-marketers-be1c46ea159a?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
