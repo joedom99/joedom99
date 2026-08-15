@@ -2,8 +2,8 @@
 
 - 🙋🏻‍♂️ I’m **Joe Domaleski** — energetic and experienced executive with a passion for [BETTER MARKETING](https://blog.marketingdatascience.ai/a-better-marketing-manifesto-24b6541a6cb9).
 - 👀 I’m interested in digital marketing, machine learning, AI, data science, analytics, R programming, Python, and amateur (ham) radio.
-- 👨🏻‍🎓 I have an MBA from Georgia State University 🐾 and a BS in Mathematics/Computer Science from the University of North Georgia 🦅.
-- 📊 I’m currently a student in the MS Analytics program at Georgia Tech 🐝.
+- 📊 I have a Master of Science in Analytics degree from Georgia Tech 🐝.
+- 👨🏻‍🎓 I also have an MBA from Georgia State University 🐾 and a BS in Mathematics/Computer Science from the University of North Georgia 🦅.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joedom/) | [Marketing Data Science Blog](https://blog.marketingdatascience.ai)
 - 👨🏻‍💻 Work: I own [Country Fried Creative](https://countryfriedcreative.com), an award-winning digital marketing agency based in Peachtree City, Georgia (Atlanta area).
 - 🏡 Personal: I'm a husband to Mary Catherine and the father of three grown children.
