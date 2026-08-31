@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SEO, AEO, and GEO: A Marketer’s Guide to Search Visibility](https://medium.com/@marketingdatascience/seo-aeo-and-geo-a-marketers-guide-to-search-visibility-2f96b61ffa98?source=rss-3e624457f65a------2)
 - [The Middle-Aged Graduate Student Earns a Master of Science in Analytics from Georgia Tech](https://medium.com/@marketingdatascience/the-middle-aged-graduate-student-earns-a-master-of-science-in-analytics-from-georgia-tech-c1ccfa0caeb0?source=rss-3e624457f65a------2)
 - [Vanity Metrics: You Can’t Deposit Likes at the Bank](https://medium.com/@marketingdatascience/vanity-metrics-you-cant-deposit-likes-at-the-bank-7592eadf91dc?source=rss-3e624457f65a------2)
 - [An Introduction to Markov Chains](https://medium.com/@marketingdatascience/an-introduction-to-markov-chains-69bb4906f416?source=rss-3e624457f65a------2)
 - [Introduction to Monte Carlo Simulation for Marketers](https://medium.com/@marketingdatascience/introduction-to-monte-carlo-simulation-for-marketers-8cb0077f1566?source=rss-3e624457f65a------2)
-- [Why a Website Works for Some Visitors, but Not Others](https://medium.com/@marketingdatascience/why-a-website-works-for-some-visitors-but-not-others-d583e0d06d7d?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
