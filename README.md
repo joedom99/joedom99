@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Same Answer, Ten Different Explanations: Non-Determinism in Generative AI Search](https://medium.com/@marketingdatascience/the-same-answer-ten-different-explanations-non-determinism-in-generative-ai-search-e976d5be6e52?source=rss-3e624457f65a------2)
 - [Fast, Cheap, and Wrong: The Business Case Against AI Slop](https://medium.com/@marketingdatascience/fast-cheap-and-wrong-the-business-case-against-ai-slop-592db2610998?source=rss-3e624457f65a------2)
 - [SEO, AEO, and GEO: A Marketer’s Guide to Search Visibility](https://medium.com/@marketingdatascience/seo-aeo-and-geo-a-marketers-guide-to-search-visibility-2f96b61ffa98?source=rss-3e624457f65a------2)
 - [The Middle-Aged Graduate Student Earns a Master of Science in Analytics from Georgia Tech](https://medium.com/@marketingdatascience/the-middle-aged-graduate-student-earns-a-master-of-science-in-analytics-from-georgia-tech-c1ccfa0caeb0?source=rss-3e624457f65a------2)
 - [Vanity Metrics: You Can’t Deposit Likes at the Bank](https://medium.com/@marketingdatascience/vanity-metrics-you-cant-deposit-likes-at-the-bank-7592eadf91dc?source=rss-3e624457f65a------2)
-- [An Introduction to Markov Chains](https://medium.com/@marketingdatascience/an-introduction-to-markov-chains-69bb4906f416?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
