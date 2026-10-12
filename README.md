@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Customer Lifetime Value: What Is a Customer Really Worth?](https://medium.com/@marketingdatascience/customer-lifetime-value-what-is-a-customer-really-worth-47cf0efc510c?source=rss-3e624457f65a------2)
 - [Introducing the Marketing Analytics Credibility Model &lpar;MACM&rpar;](https://medium.com/@marketingdatascience/introducing-the-marketing-analytics-credibility-model-macm-0700dea3c08e?source=rss-3e624457f65a------2)
 - [How Similar Are AI-Generated Answers?](https://medium.com/@marketingdatascience/how-similar-are-ai-generated-answers-61b74807abfe?source=rss-3e624457f65a------2)
 - [A Practical Guide to Measuring Text Similarity](https://medium.com/@marketingdatascience/a-practical-guide-to-measuring-text-similarity-b770848ce48f?source=rss-3e624457f65a------2)
 - [The Same Answer, Ten Different Explanations: Non-Determinism in Generative AI Search](https://medium.com/@marketingdatascience/the-same-answer-ten-different-explanations-non-determinism-in-generative-ai-search-e976d5be6e52?source=rss-3e624457f65a------2)
-- [Fast, Cheap, and Wrong: The Business Case Against AI Slop](https://medium.com/@marketingdatascience/fast-cheap-and-wrong-the-business-case-against-ai-slop-592db2610998?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
