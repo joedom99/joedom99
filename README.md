@@ -24,9 +24,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Objective Functions for Marketers: How Models Decide What “Best” Means](https://medium.com/@marketingdatascience/objective-functions-for-marketers-how-models-decide-what-best-means-b737f1705d6b?source=rss-3e624457f65a------2)
 - [The Cobra Effect: When Marketing Metrics Bite Back](https://medium.com/@marketingdatascience/the-cobra-effect-when-marketing-metrics-bite-back-d4ac686c1b8d?source=rss-3e624457f65a------2)
 - [Reproducibility, Replicability, and Generalizability in Digital Marketing Analytics](https://medium.com/@marketingdatascience/reproducibility-replicability-and-generalizability-in-digital-marketing-analytics-c43bad85dc07?source=rss-3e624457f65a------2)
 - [Predicting Customer Lifetime Value: What Will Your Customers Be Worth?](https://medium.com/@marketingdatascience/predicting-customer-lifetime-value-what-will-your-customers-be-worth-d8f2eb2327f8?source=rss-3e624457f65a------2)
 - [Customer Lifetime Value: What Is a Customer Really Worth?](https://medium.com/@marketingdatascience/customer-lifetime-value-what-is-a-customer-really-worth-47cf0efc510c?source=rss-3e624457f65a------2)
-- [Introducing the Marketing Analytics Credibility Model &lpar;MACM&rpar;](https://medium.com/@marketingdatascience/introducing-the-marketing-analytics-credibility-model-macm-0700dea3c08e?source=rss-3e624457f65a------2)
 <!-- BLOG-POST-LIST:END -->
